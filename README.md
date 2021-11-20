@@ -38,6 +38,7 @@ ext install codeigniter4-snippets
 | ci_getPost                | Return any data from $_POST                                |
 | ci_getServer              | Return any data from $_SERVER                              |
 | ci_getVar                 | Return any data from $_GET, $POST, or $_COOKIE             |
+| ci_getFile                | Return any data from $_FILE                                |
 | ci_isajax                 | Check if request is ajax                                   |
 | ci_iscli                  | Check if request is CLI                                    |
 | ci_issecure               | Check if request is HTTPS                                  |
