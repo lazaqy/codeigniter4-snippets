@@ -125,6 +125,14 @@
             "$2"
         ]
     },
+    "codeigniter4Getfile": {
+        "prefix": "ci4_getFile",
+        "description": "codeigniter4 - This method is identical to getFile(), only it fetches GET data. ",
+        "body": [
+            "$request->getFile('${1:var_name}');",
+            "$2"
+        ]
+    },
     "codeigniter4Isajax": {
         "prefix": "ci4_isAjax",
         "description": "codeigniter4 - True if the request is an AJAX request, otherwise false.",
